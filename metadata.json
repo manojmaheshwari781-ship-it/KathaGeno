@@ -1,0 +1,6 @@
+{
+  "name": "KathaMotion — Storyboard & Video Studio",
+  "description": "Animate illustrated frames and photographs into atmospheric 16:9 and 9:16 videos using Gemini Omni Flash.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
